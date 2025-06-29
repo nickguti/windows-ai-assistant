@@ -1,0 +1,15 @@
+gtts
+pydub
+SpeechRecognition
+requests
+spotipy
+simpleaudio
+tk
+pyautogui
+wikipedia
+pywhatkit
+psutil
+speedtest-cli
+openai
+pystray
+Pillow
