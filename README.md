@@ -63,6 +63,17 @@ Installazione
 
 -----------------------------------------
 
+**Nota sull’installazione di ffmpeg e ffprobe**
+
+Per il corretto funzionamento della sintesi vocale (e altre funzioni audio/video) sono necessari i file `ffmpeg.exe` e `ffprobe.exe`.
+
+Scarica entrambi dal sito ufficiale [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)  
+Estrai **ffmpeg.exe** e **ffprobe.exe** nella cartella principale del progetto (o nella cartella `assets/`).
+
+**Attenzione:** questi file NON sono inclusi nella repository perché superano i limiti di upload di GitHub.
+
+-----------------------------------------
+
 Espansione domotica  
 -------------------
 
